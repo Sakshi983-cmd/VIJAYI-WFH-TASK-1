@@ -48,3 +48,4 @@ Upload the `.py` or copy code into a Colab notebook and run cells one by one.
 ```bash
 pip install pandas scikit-learn nltk spacy textblob gradio
 python vijay_wfh_task_1.py
+### Video -https://screenapp.io/app/#/shared/NXVr6hAMqM
