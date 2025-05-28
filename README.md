@@ -2,7 +2,7 @@
 # 🛠️ Task 1 – Customer Ticket Classification & Entity Extraction
 
 ## 👩‍💻 Submitted by
-- Name: [आपका नाम]
+- Name: SAKSHI TIWARI
 - College: BNCET Lucknow
 - Branch: B.Tech ECE
 
